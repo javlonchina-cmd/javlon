@@ -18,6 +18,6 @@ I have participated in several prestigious international research programmes at 
 
 In 2026, I participated in the **CMS Data Analysis School (CMSDAS)** at the University of Science and Technology of China (USTC), where I trained in CMS software and physics analysis techniques relevant to the Large Hadron Collider experiments.
 
-Prior to my master's studies, I worked as a Physics Laboratory Assistant in the Department of Nuclear Physics and Astronomy at Samarkand State University, where I supported undergraduate students in nuclear and experimental physics laboratory work.
+Prior to my master's studies, I worked as a Physics Laboratory Assistant in the Department of Nuclear Physics and Astronomy at Samarkand State University, where I supported undergraduate students in nuclear and experimental physics laboratory work
 
 I am the co-author of two publications in the Bulletin of Samarkand State University on relativistic heavy-ion collision physics, covering the analysis of particle spectra in Cu+Cu collisions and central dC-, CC-, and CTa-collisions.
