@@ -2,82 +2,30 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-<style>
-.pub-card {
-  border-left: 4px solid #2c7be5;
-  background: #f9fbfd;
-  padding: 15px 20px;
-  margin-bottom: 20px;
-  border-radius: 8px;
-  transition: 0.3s;
-}
+## Journal Articles
 
-.pub-card:hover {
-  background: #eef5ff;
-  transform: translateY(-2px);
-}
+1. Sultanov M.U., Yuldashev S.K., Nodirov G.Yu., **Bakhromov J.O.**
+   Fitting the spectra of pions, kaons, protons and antiprotons in Cu + Cu collisions at energy √sNN = 200 GeV.
+   *Bulletin of Samarkand State University*, 5/2(141), **2023**.
+   DOI: [10.59251/2181-1296.2023.v5.141.2.2361](https://doi.org/10.59251/2181-1296.2023.v5.141.2.2361)
 
-.pub-title {
-  font-weight: 600;
-  font-size: 16px;
-  color: #1a1a1a;
-}
+2. Kh.K. Olimov, M.U. Sultonov, S.K. Yuldoshev, **J.O. Bakhromov**, G.Yu. Nodirov, Sh.A. Khaitov.
+   Properties of central dC-, CC-, and CTa-collisions at a momentum of 4.2 AGeV/c and their comparative analysis.
+   *Bulletin of Samarkand State University*, 143/2(1), **2024**.
 
-.pub-authors {
-  color: #555;
-  margin-top: 5px;
-}
+---
 
-.pub-journal {
-  font-style: italic;
-  color: #2c7be5;
-  margin-top: 5px;
-}
+## Internship Reports
 
-.pub-year {
-  float: right;
-  color: #888;
-}
-</style>
+3. **J. Bakhromov.**
+   Measurements of alpha-particle ranges in fragmentation of ¹²C and ¹⁶O nuclei with relativistic hadrons using nuclear track emulsions.
+   *JINR START Programme Report*, **2023**.
+   [Read report](https://students.jinr.ru/uploads/report_files/report_student_1848_project_268.pdf)
 
-## 📄 Publications
-
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
-
-{% for pub in pubs %}
-<div class="pub-card">
-
-  <div class="pub-year">{{ pub.year }}</div>
-
-  <div class="pub-title">
-    {% if pub.doi %}
-      <a href="{{ pub.doi }}" style="text-decoration:none; color:#1a1a1a;">
-        {{ pub.title }}
-      </a>
-    {% else %}
-      {{ pub.title }}
-    {% endif %}
-  </div>
-
-  <div class="pub-authors">
-    {{ pub.authors }}
-  </div>
-
-  <div class="pub-journal">
-    {{ pub.journal }}
-  </div>
-
-  <div style="margin-top:8px;">
-  {% if pub.pdf %}
-    <a href="{{ pub.pdf }}" style="margin-right:10px; text-decoration:none; color:#2c7be5;">📄 PDF</a>
-  {% endif %}
-  
-  {% if pub.doi %}
-    <a href="{{ pub.doi }}" style="text-decoration:none; color:#2c7be5;">🔗 DOI</a>
-  {% endif %}
-</div>
-
-</div>
-{% endfor %}
+4. **J. Bakhromov.**
+   Production and spectroscopic investigation of new neutron-rich isotopes near the neutron N = 126 shell closure using multinucleon transfer reactions.
+   *JINR INTEREST Programme Report*, **2023**.
+   [Read report](http://interest.jinr.ru/uploads/report_files/report_student_1593_project_257.pdf)
