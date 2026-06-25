@@ -2,58 +2,52 @@
 layout: archive
 title: "Experience"
 permalink: /experience/
+author_profile: true
 ---
 
-<style>
-.timeline {
-  border-left: 3px solid #6c757d;
-  padding-left: 20px;
-}
+## Work & Research Experience
 
-.exp-item {
-  margin-bottom: 25px;
-  position: relative;
-}
+### Physics Laboratory Assistant
+**Department of Nuclear Physics and Astronomy, Samarkand State University**
+*September 2024 – September 2025 | Samarkand, Uzbekistan*
 
-.exp-item::before {
-  content: "";
-  position: absolute;
-  left: -10px;
-  top: 5px;
-  width: 12px;
-  height: 12px;
-  background: #6c757d;
-  border-radius: 50%;
-}
+- Assisted bachelor's students with laboratory work and experiment setup according to the curriculum
+- Supported practical lessons in nuclear and experimental physics laboratories
 
-.exp-title {
-  font-weight: 600;
-  font-size: 16px;
-}
+---
 
-.exp-place {
-  color: #2c7be5;
-}
+### Intern — Laboratory of High Energy Physics
+**Physical-Technical Institute of the Academy of Sciences of Uzbekistan**
+*December 2022 – July 2023 | Tashkent, Uzbekistan*
 
-.exp-period {
-  color: #888;
-  font-size: 14px;
-}
+- Processed photonuclear emulsions and bubble chamber data
+- Participated in experimental High Energy Physics laboratory activities
 
-.exp-desc {
-  margin-top: 5px;
-}
-</style>
+---
 
-## 💼 Professional Experience
+## International Academic Programmes
 
-<div class="timeline">
-{% for exp in site.data.experience %}
-  <div class="exp-item">
-    <div class="exp-title">{{ exp.title }}</div>
-    <div class="exp-place">{{ exp.place }}</div>
-    <div class="exp-period">{{ exp.period }}</div>
-    <div class="exp-desc">{{ exp.description }}</div>
-  </div>
-{% endfor %}
-</div>
+### CMS Data Analysis School (CMSDAS)
+**University of Science and Technology of China (USTC)**
+*March 22–27, 2026 | Hefei, China*
+
+- Participated in CMS software and physics analysis training sessions
+- Worked on practical exercises related to CMS data analysis and High Energy Physics research
+
+---
+
+### START Programme Intern
+**Joint Institute for Nuclear Research (JINR)**
+*July – August 2023 | Dubna, Russian Federation*
+
+- Worked on measurements of alpha-particle ranges in fragmentation of ¹²C and ¹⁶O nuclei with relativistic hadrons using nuclear track emulsions
+- [View report](https://students.jinr.ru/uploads/report_files/report_student_1848_project_268.pdf)
+
+---
+
+### INTEREST Programme Intern
+**Joint Institute for Nuclear Research (JINR)**
+*October – December 2023 | Dubna, Russian Federation*
+
+- Worked on production and spectroscopic investigation of new neutron-rich isotopes near the neutron N = 126 shell closure using multinucleon transfer reactions
+- [View report](http://interest.jinr.ru/uploads/report_files/report_student_1593_project_257.pdf)
