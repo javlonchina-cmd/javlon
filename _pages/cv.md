@@ -17,7 +17,7 @@ redirect_from:
 
 * **Bachelor's Degree in Physics**
   National University of Uzbekistan
-  Tashkent, Uzbekistan | *2020 – 2024*
+  Tashkent, Uzbekistan | *2020 –2024*
 
 ---
 
