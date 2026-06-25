@@ -36,7 +36,7 @@ search_full_content      : true
 # --- Site Author ---
 author:
   name             : "Javlonbek Bakhromov"
-  avatar           : "images/javlonbek.jpg"
+  avatar           : "javlonbek.jpg"
   bio              : "MSc Student | Experimental Nuclear & Particle Physics"
   location         : "Beijing, China"
   employer         : "UCAS / Institute of High Energy Physics (IHEP)"
