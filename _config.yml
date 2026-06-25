@@ -22,15 +22,12 @@ repository               : "intsamdu/intsamdu.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "akmal.jpg"
-  name             : "Akmal Safarov"
-  pronouns         : # example: "she/her"  
-  bio              : "Associate Professor"
-  location         : "Samarkand"
-  employer         : "Samarkand State University"
-  uri              : # URL
-  email            : "akmaljon1985@yahoo.com" 
+  avatar           : "javlonbek.jpg"
+  name             : "Javlonbek Bakhromov"
+  bio              : "MSc Student in Experimental Nuclear & Particle Physics"
+  location         : "Beijing, China"
+  employer         : "UCAS & IHEP"
+  email            : "javlonbek27032002@gmail.com"
 
   # Academic websites
   academia         : # URL
